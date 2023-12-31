@@ -7,3 +7,7 @@ This study aims to use the data scrapped from the Indiegogo website for crowdfun
 - Predict the success or failure of the projects advertised on the platform based on the characteristics of the project using machine learning techniques. 
 - Figure out the importance of the characteristics of the project campaign (e.g., number of backers) in defining the campaign's success.
 - Explore the most successful project category types and the countries with the highest success rates by utilizing exploratory data analysis.
+
+## Deployment
+The champion model chosen was Logistic Regression, which is used to build a model using Flask to predict the campaign success based on certain criteria as shown below.
+![](Project.gif)
