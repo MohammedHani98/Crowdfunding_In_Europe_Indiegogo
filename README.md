@@ -15,4 +15,4 @@ The champion model chosen was Logistic Regression, which is used to build a mode
 
 ## Visualization
 The dataset of this project is utilized to build multiple dashboards Using Microsoft Power BI.
- 
+![](GIF video.gif)
