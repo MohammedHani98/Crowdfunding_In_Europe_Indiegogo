@@ -12,3 +12,7 @@ This study aims to use the data scrapped from the Indiegogo website for crowdfun
 The champion model chosen was Logistic Regression, which is used to build a model using Flask to predict the campaign success based on certain criteria as shown below.
 
 ![](Project.gif)
+
+## Visualization
+The dataset of this project is utilized to build multiple dashboards Using Microsoft Power BI.
+ 
