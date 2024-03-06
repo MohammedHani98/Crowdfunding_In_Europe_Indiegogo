@@ -1,6 +1,6 @@
 # Crowdfunding_In_Europe_Indiegogo
 
-The notebook is related to my master's thesis to study the main factors that can impact the probability of a successful crowdfunding campaign in Europe based on the Indiegogo data platform.
+The notebook is related to my master's thesis to study the main factors that can impact the probability of a successful crowdfunding campaign in Europe based on the Indiegogo platform.
 
 ## Objectives
 This study aims to use the data scrapped from the Indiegogo website for crowdfunding in the European region in the period from 2010 to 2023 in order to:
